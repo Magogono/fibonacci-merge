@@ -1,1 +1,1 @@
-Finished on 25.11.2020. Java project that implements sorting sequential files by polyphase merging with Fibonacci distribution. Writing and reading a tape is realized as handling only one block of data (disk page) at once and the size of block is set pernamently in code.
+Finished on 25.11.2020. Java project that implements sorting sequential files by polyphase merging with Fibonacci distribution. Writing and reading a tape is realized by handling only one block of data (disk page) at once and the size of the block is set pernamently in the code.
